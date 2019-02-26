@@ -2,16 +2,6 @@ import sys
 import cv2 as cv
 import numpy as np
 import os
-from tkinter import *
-
-### ----------------HOW TO USE---------------
-### Фото 1280х720
-### для отображения результата раскомментировать строки 158-160, для следующей фотографии нажаьб любую клавишу
-###
-###
-###
-###
-
 
 #np.seterr(over='ignore')
 
